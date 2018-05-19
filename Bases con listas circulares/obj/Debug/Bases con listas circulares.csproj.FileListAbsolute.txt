@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\bin\Debug\Bases con listas circulares.exe.config
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\bin\Debug\Bases con listas circulares.exe
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\bin\Debug\Bases con listas circulares.pdb
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases con listas circulares.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases_con_listas_circulares.Form1.resources
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases_con_listas_circulares.Properties.Resources.resources
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases con listas circulares.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases con listas circulares.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases con listas circulares.exe
+C:\Users\brand\source\repos\Bases con listas circulares\Bases con listas circulares\obj\Debug\Bases con listas circulares.pdb
